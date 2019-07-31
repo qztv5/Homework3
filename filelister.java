@@ -3,7 +3,7 @@ package com.Anderson.homework3;
 import java.io.File;
 import java.util.Scanner;
 
-public class filelister {
+public class FileLister {
 
 	public static void main(String[] args)
 	{
