@@ -1,7 +1,6 @@
 package com.Anderson.homework3;
 
 import java.io.FileWriter;
-import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
